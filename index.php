@@ -1,6 +1,6 @@
 <?php
 
-require_once('./luaslingkaran.php'); //cara panggil file
+require_once('./LuasLingkaran.php'); //cara panggil file
 
 use App\Math\LuasLingkaran; //panggil class
 
